@@ -1,0 +1,12 @@
+{
+    "components": [
+      "./src/app/components/accordion/accordion.ts",
+      "./src/app/components/button/button.tsx",
+      "./src/app/components/breadcrumb/breadcrumb.tsx",
+      "./src/app/components/calendar/calendar.tsx",
+      "./src/app/components/card/card.tsx"
+    ],
+    "wrapper": "./src/Wrapper.tsx",
+    "webpack": "./webpack.locofy.js",
+    "publicPath": "./public/assets"
+  }
